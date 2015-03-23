@@ -14,6 +14,7 @@
 
 // ignore-windows failing on win32 bot
 // ignore-freebsd: gdb package too new
+// ignore-bitrig: gdb-check:$2 = {<No data fields>}
 // ignore-tidy-linelength
 // ignore-lldb
 // ignore-android: FIXME(#10381)
